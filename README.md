@@ -16,7 +16,10 @@ I wanted to try the GCP tool as I was curious on how they work. Being interested
 2. work with APIs to get data to the GCS
 
 ----------------------------------------------------------------------------------------------------------------
-<p align="center">DEVELOPMENT PROCESS</p>
+
+**<p align="center">DEVELOPMENT PROCESS</p>**
+
+----------------------------------------------------------------------------------------------------------------
 
 I first loaded the CSV file in a Google Cloud Storage bucket as STG_GAMESPOT
 
