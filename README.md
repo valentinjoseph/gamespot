@@ -1,6 +1,7 @@
 I wanted to try the GCP tool as I was curious on how they work. Being interested in the video gaming industry, I took datasets from that field as example.
 Here is the overall architecture of the datapipeline
-![image](https://github.com/valentinjoseph/gamespot/assets/96952537/ffd4b766-cf86-4ad6-9f3e-97281c41b5b3)
+![image](https://github.com/valentinjoseph/gamespot/assets/96952537/5d37f354-211b-414c-9b92-37045eeb77aa)
+
 
 
 Here is the process:
